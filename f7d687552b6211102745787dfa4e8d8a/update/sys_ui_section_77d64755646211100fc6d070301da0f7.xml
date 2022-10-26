@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="77d64755646211100fc6d070301da0f7" sys_domain="global" table="x_919153_sos_status_report" version="3" view="update_report_x_919153_sos">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>bfd6475561621110566bf8524e6476f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>your_health_status</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>73d647556e62111020d635774f0e35f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>your_work_status</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>7fd6475535621110be6e3ac4d1a164f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_update</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>77d6475590621110520b04187d2e38f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>were_other_employees_affected_by_this_emergency</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>7bd64755da6211105abe5bc23a9983f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>who_else_was_affected</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>b7d64755ae621110afc4bf92e679d5f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>6</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>3fd64755066211102755d614cad25cf6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>7</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_id>3bd6475534621110efeac46a17af43f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_919153_sos_status_report" sys_domain="global" view="33d6475545621110494de5383df9a4f7">77d64755646211100fc6d070301da0f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_919153_sos_status_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>77d64755646211100fc6d070301da0f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_919153_sos_status_report</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+            <sys_update_name>sys_ui_section_77d64755646211100fc6d070301da0f7</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:52</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Update Report (x_919153_sos)" name="update_report_x_919153_sos">33d6475545621110494de5383df9a4f7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

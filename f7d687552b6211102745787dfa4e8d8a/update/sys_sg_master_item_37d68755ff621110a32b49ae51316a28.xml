@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_master_item">
+    <sys_sg_master_item action="INSERT_OR_UPDATE">
+        <condition_order/>
+        <datasource_table>x_919153_sos_work_status_request_task</datasource_table>
+        <datasource_table_condition table="x_919153_sos_work_status_request_task">self_report.start_date&lt;=javascript:gs.beginningOfLast30Days()<item endquery="false" field="self_report.start_date" goto="false" newquery="false" operator="&lt;=" or="false" value="javascript:gs.beginningOfLast30Days()"/>
+        </datasource_table_condition>
+        <embedded_screen display_value="Dashboard records Form">b3d687557e6211101678693d052ff32e</embedded_screen>
+        <item_view/>
+        <name>Dashboard records Main Item</name>
+        <sys_class_name>sys_sg_master_item</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:14</sys_created_on>
+        <sys_id>37d68755ff621110a32b49ae51316a28</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Dashboard records Main Item</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_master_item_37d68755ff621110a32b49ae51316a28</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:14</sys_updated_on>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="Dashboard records View Config">37d6875559621110a8ebcc2b30402626</view_config>
+    </sys_sg_master_item>
+</record_update>

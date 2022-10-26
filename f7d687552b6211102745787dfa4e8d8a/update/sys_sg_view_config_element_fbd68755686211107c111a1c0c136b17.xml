@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_04_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:59</sys_created_on>
+        <sys_id>fbd68755686211107c111a1c0c136b17</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_04_element</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_fbd68755686211107c111a1c0c136b17</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:59</sys_updated_on>
+        <view_config display_value="Not responded Form View Config">bbd687556f621110527a6cd42815722f</view_config>
+        <view_template_slot display_value="text_04">7bd68755d3621110e5639c24c16f3317</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

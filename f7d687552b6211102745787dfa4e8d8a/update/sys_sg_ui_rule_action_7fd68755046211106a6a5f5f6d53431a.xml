@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_ui_rule_action">
+    <sys_sg_ui_rule_action action="INSERT_OR_UPDATE">
+        <operation display_value="Set Visibility">7e75bedc5b031010da168d8fa881c710</operation>
+        <order>10</order>
+        <sys_class_name>sys_sg_ui_rule_action</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:36</sys_created_on>
+        <sys_id>7fd68755046211106a6a5f5f6d53431a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_ui_rule_action_7fd68755046211106a6a5f5f6d53431a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:36</sys_updated_on>
+        <target>were_others_effected</target>
+        <ui_rule display_value="Hide Check if others effected and who else effected">b7d687551962111077cb041a5e7db320</ui_rule>
+        <value>false</value>
+    </sys_sg_ui_rule_action>
+</record_update>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>highlightedValueConfigId</name>
+        <page display_value="SOS - Workspace">bfd68755166211100b1de63dd37f2b89</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:44</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>bbd64755636211103e22dd5dc52cc0e1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>highlightedValueConfigId</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_page_property_bbd64755636211103e22dd5dc52cc0e1</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:44</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_919153_sos.bfd68755166211100b1de63dd37f2b89.root.highlightedValueConfigId</unique_name>
+        <value>b7d64755f36211103a08060cb3164be5</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=bbd64755636211103e22dd5dc52cc0e1"/>
+</record_update>

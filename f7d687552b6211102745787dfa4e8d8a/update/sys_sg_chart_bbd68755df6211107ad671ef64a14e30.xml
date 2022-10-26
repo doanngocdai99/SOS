@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_chart">
+    <sys_sg_chart action="INSERT_OR_UPDATE">
+        <jump_to_screen display_value="Not responded">bfd68755466211108711bab7962fe132</jump_to_screen>
+        <name>Not responded (Emergency Alert)</name>
+        <report display_value="Not responded (Emergency Alert)">3bd68755176211104de896e39bfee243</report>
+        <sys_class_name>sys_sg_chart</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:37</sys_created_on>
+        <sys_id>bbd68755df6211107ad671ef64a14e30</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Not responded (Emergency Alert)</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_chart_bbd68755df6211107ad671ef64a14e30</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:37</sys_updated_on>
+        <title>Not responded</title>
+        <type>report</type>
+        <widget/>
+    </sys_sg_chart>
+</record_update>

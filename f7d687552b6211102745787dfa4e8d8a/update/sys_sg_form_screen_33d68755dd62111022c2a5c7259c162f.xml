@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_form_screen">
+    <sys_sg_form_screen action="INSERT_OR_UPDATE">
+        <alert/>
+        <available_offline>true</available_offline>
+        <data_item/>
+        <description/>
+        <dynamic_prefetch_count/>
+        <empty_state/>
+        <fetch_type>not_required</fetch_type>
+        <filter/>
+        <hide_filters>false</hide_filters>
+        <hide_screen_name>false</hide_screen_name>
+        <icon display_value="My Status Reports Form Icon">73d687558c62111008d6a851c08f0c2f</icon>
+        <item_view/>
+        <name>My Status Reports Form</name>
+        <override_context_with_data_item>false</override_context_with_data_item>
+        <roles_override/>
+        <segments_height>medium</segments_height>
+        <segments_min_width>medium</segments_min_width>
+        <sys_class_name>sys_sg_form_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:10</sys_created_on>
+        <sys_id>33d68755dd62111022c2a5c7259c162f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>My Status Reports Form</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_form_screen_33d68755dd62111022c2a5c7259c162f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:10</sys_updated_on>
+        <table>x_919153_sos_status_report</table>
+        <use_view_config>true</use_view_config>
+        <view_config display_value="My Status Reports Form View Config">f3d68755d562111021751c10954af42f</view_config>
+    </sys_sg_form_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=33d68755dd62111022c2a5c7259c162f"/>
+</record_update>

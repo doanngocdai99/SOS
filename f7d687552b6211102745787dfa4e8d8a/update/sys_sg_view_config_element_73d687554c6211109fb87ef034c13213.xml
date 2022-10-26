@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_config_element">
+    <sys_sg_view_config_element action="INSERT_OR_UPDATE">
+        <name>text_02_element</name>
+        <sys_class_name>sys_sg_view_config_element</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:32</sys_created_on>
+        <sys_id>73d687554c6211109fb87ef034c13213</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_02_element</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_view_config_element_73d687554c6211109fb87ef034c13213</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:32</sys_updated_on>
+        <view_config display_value="Your Status Reports Form View Config">b3d68755c0621110ebfc68f4c6d0972f</view_config>
+        <view_template_slot display_value="text_02">3bd6875573621110dab9ab09c2e5c316</view_template_slot>
+    </sys_sg_view_config_element>
+</record_update>

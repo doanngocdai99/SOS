@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_m2m_workspace_header_ux_header_config">
+    <sys_ux_m2m_workspace_header_ux_header_config action="INSERT_OR_UPDATE">
+        <header_config display_value="Emergency Alert Header Config">3bd6475592621110d0463a45602f8ce5</header_config>
+        <sys_class_name>sys_ux_m2m_workspace_header_ux_header_config</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:39</sys_created_on>
+        <sys_id>77d647550d621110f3706edd33480be4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_m2m_workspace_header_ux_header_config_77d647550d621110f3706edd33480be4</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:39</sys_updated_on>
+        <workspace_form_header display_value="x_919153_sos_status_report">bbd68755d96211106295899e87c78b82</workspace_form_header>
+    </sys_ux_m2m_workspace_header_ux_header_config>
+</record_update>

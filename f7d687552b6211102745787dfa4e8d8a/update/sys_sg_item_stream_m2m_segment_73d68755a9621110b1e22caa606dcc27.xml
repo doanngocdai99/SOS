@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream_m2m_segment">
+    <sys_sg_item_stream_m2m_segment action="INSERT_OR_UPDATE">
+        <item_stream display_value="Your Status Reports Item Stream">3fd6875558621110e2da7e5fc7dda928</item_stream>
+        <segment display_value="Item Stream Segment">33d6875545621110271cb9c5277ac027</segment>
+        <sys_class_name>sys_sg_item_stream_m2m_segment</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:57</sys_created_on>
+        <sys_id>73d68755a9621110b1e22caa606dcc27</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_m2m_segment_73d68755a9621110b1e22caa606dcc27</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:57</sys_updated_on>
+    </sys_sg_item_stream_m2m_segment>
+</record_update>

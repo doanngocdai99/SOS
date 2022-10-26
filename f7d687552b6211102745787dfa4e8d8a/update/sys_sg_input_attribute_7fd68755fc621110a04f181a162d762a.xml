@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Who else was affected?">b7d68755cb62111036f589de8e03b42c</input>
+        <name>SourceFieldName</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:54</sys_created_on>
+        <sys_id>7fd68755fc621110a04f181a162d762a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SourceFieldName</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_7fd68755fc621110a04f181a162d762a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:54</sys_updated_on>
+        <value>who_else_was_affected</value>
+    </sys_sg_input_attribute>
+</record_update>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="status_matrix" table="x_919153_sos_status_report" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>status_matrix</element>
+            <name>x_919153_sos_status_report</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by/>
+            <sys_created_on/>
+            <sys_id>6a57cb952f621110fddd136a2799b617</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>status_matrix</sys_name>
+            <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+            <sys_update_name>sys_choice_x_919153_sos_status_report_status_matrix</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:14:35</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status_matrix</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Danger</label>
+            <language>en</language>
+            <name>x_919153_sos_status_report</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:14:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>37d687553c6211106492c70b25ec8680</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:14:35</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status_matrix</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Ok</label>
+            <language>en</language>
+            <name>x_919153_sos_status_report</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:14:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>73d68755586211107846794efce53580</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:14:35</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>status_matrix</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Warning</label>
+            <language>en</language>
+            <name>x_919153_sos_status_report</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:14:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b7d687556562111089dddb3865b43780</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:14:35</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

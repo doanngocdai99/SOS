@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_client_script">
+    <sys_ux_client_script action="INSERT_OR_UPDATE">
+        <includes/>
+        <macroponent display_value="Report Summary">3fd64755b06211100ab9735e6982eef1</macroponent>
+        <name>OpenModal</name>
+        <required_translations>[ ]</required_translations>
+        <script><![CDATA[/**
+ * @param {params} params
+ * @param {api} params.api
+ * @param {any} params.event
+ * @param {any} params.imports
+ */
+function handler({api, event, helpers, imports}) {
+
+const openModal = helpers.modal.open;
+openModal("[component-id$='confirm_1']");
+}]]></script>
+        <script_api_version>2.0.0</script_api_version>
+        <sys_class_name>sys_ux_client_script</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:15:14</sys_created_on>
+        <sys_id>ffd64755b86211109808dbdc924fe8eb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>OpenModal</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_client_script_ffd64755b86211109808dbdc924fe8eb</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:15:14</sys_updated_on>
+        <type/>
+    </sys_ux_client_script>
+</record_update>

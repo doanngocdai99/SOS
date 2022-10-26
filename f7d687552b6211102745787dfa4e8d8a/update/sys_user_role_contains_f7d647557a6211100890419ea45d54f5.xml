@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="workspace_user" name="workspace_user">3bf8d5b65344130084acddeeff7b122b</contains>
+        <role display_value="x_919153_sos.emergency_alert_admin" name="x_919153_sos.emergency_alert_admin">33d68755a062111063644d405d9cdd8a</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:14</sys_created_on>
+        <sys_id>f7d647557a6211100890419ea45d54f5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>workspace_user.</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_user_role_contains_f7d647557a6211100890419ea45d54f5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:14</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

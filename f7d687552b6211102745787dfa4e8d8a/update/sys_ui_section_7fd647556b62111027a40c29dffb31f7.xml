@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Update your emergency status report" section_id="7fd647556b62111027a40c29dffb31f7" sys_domain="global" table="x_919153_sos_status_report" version="3" view="update_status_report_x_919153_sos">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>ffd647555f621110e49ab777a01fddf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>type_of_emergency</element>
+            <position>1</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>73d64755a162111071ab847177025bf8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_details</element>
+            <position>2</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>fbd647559d6211102ca2dedc64eb1ef7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>3</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>33d647558462111028c13e487e0482f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>4</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>bfd6475533621110ccbb8669adc6a3f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>start_date</element>
+            <position>5</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>b3d64755aa621110e528c95823a661f8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>6</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>3fd647559e621110a56b1e24f13273f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>end_date</element>
+            <position>7</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>bbd64755d7621110c8c8747ef77294f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>8</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>f7d647553f6211102297d946a38f2bf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>9</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>b3d64755416211100e7c320fbff678f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>were_other_employees_affected_by_this_emergency</element>
+            <position>10</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>37d647555b621110b626765ee7eaf6f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>who_else_was_affected</element>
+            <position>11</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>ffd647557e62111048c769501816b1f6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>your_health_status</element>
+            <position>12</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>b7d64755e562111059043f05a26fa9f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>your_work_status</element>
+            <position>13</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>f3d647557462111056b824731f1a7af7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>emergency_update</element>
+            <position>14</position>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_id>3bd6475548621110009d0d42892bbdf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Update your emergency status report" display_value="Update your emergency status report" name="x_919153_sos_status_report" sys_domain="global" view="7bd647550b621110db9fa1a1b43031f7">7fd647556b62111027a40c29dffb31f7</sys_ui_section>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Update your emergency status report</caption>
+            <header>false</header>
+            <name>x_919153_sos_status_report</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:13:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7fd647556b62111027a40c29dffb31f7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_919153_sos_status_report</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+            <sys_update_name>sys_ui_section_7fd647556b62111027a40c29dffb31f7</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:13:04</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Update status report (x_snc_emergency_0 ) (x_919153_sos)" name="update_status_report_x_919153_sos">7bd647550b621110db9fa1a1b43031f7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_item_stream">
+    <sys_sg_item_stream action="INSERT_OR_UPDATE">
+        <data_item display_value="Not responded">b3d68755876211103bbc73f65dc00e30</data_item>
+        <interleaved_field/>
+        <name>Not responded Item Stream</name>
+        <sys_class_name>sys_sg_item_stream</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:49</sys_created_on>
+        <sys_id>b7d687550462111075f641b6b76e6229</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Not responded Item Stream</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_item_stream_b7d687550462111075f641b6b76e6229</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:49</sys_updated_on>
+        <table>x_919153_sos_work_status_request_task</table>
+    </sys_sg_item_stream>
+</record_update>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_data_broker_transform">
+    <sys_ux_data_broker_transform action="INSERT_OR_UPDATE">
+        <acl_failure_result/>
+        <api_name>x_919153_sos.sendEmergencyAlertFormSecondaryValues</api_name>
+        <description/>
+        <mutates_server_data>false</mutates_server_data>
+        <name>sendEmergencyAlertFormSecondaryValues</name>
+        <output_schema/>
+        <private>false</private>
+        <props/>
+        <required_translations>[]</required_translations>
+        <schema_version>1.0.0</schema_version>
+        <script><![CDATA[function transform(input) {
+	var loggedINUser = gs.getUserDisplayName();
+	var created = new Date();
+	var output = [{"fieldName":"Author","fieldLabel":"Author","displayValue":loggedINUser,"highlightedValueStyle":null},{"fieldName":"Created","fieldLabel":"Created","displayValue":created,"highlightedValueStyle":null,"referenceItem":null,"type":"simple"}];
+	return JSON.stringify(output);
+}]]></script>
+        <sys_class_name>sys_ux_data_broker_transform</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:57</sys_created_on>
+        <sys_id>f3d687555e621110617ded47374bfc3e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sendEmergencyAlertFormSecondaryValues</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_data_broker_transform_f3d687555e621110617ded47374bfc3e</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:57</sys_updated_on>
+    </sys_ux_data_broker_transform>
+    <sys_translated_text action="delete_multiple" query="documentkey=f3d687555e621110617ded47374bfc3e"/>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_action_param_map">
+    <sys_sg_action_param_map action="INSERT_OR_UPDATE">
+        <button display_value="Send emergency alert">b7d687559c621110c64393813b611839</button>
+        <item_parameter display_value="Emergency alert message">3fd68755e562111006c38564319e0a36</item_parameter>
+        <sys_class_name>sys_sg_action_param_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:15:12</sys_created_on>
+        <sys_id>77d687556862111089b6058d09d15b36</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>3fd68755e562111006c38564319e0a36</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_action_param_map_77d687556862111089b6058d09d15b36</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:15:12</sys_updated_on>
+        <ui_parameter display_value="Emergency alert message">b7d6875510621110198ffc7657c62036</ui_parameter>
+    </sys_sg_action_param_map>
+</record_update>

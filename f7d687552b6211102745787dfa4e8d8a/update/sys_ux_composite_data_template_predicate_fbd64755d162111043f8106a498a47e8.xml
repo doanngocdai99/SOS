@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_composite_data_template_predicate">
+    <sys_ux_composite_data_template_predicate action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <condition/>
+        <custom_condition/>
+        <custom_field_list/>
+        <field_list>status,emergency_details,your_health_status,your_work_status,sys_updated_on,type_of_emergency</field_list>
+        <name>Self Reports</name>
+        <order/>
+        <predicate_bundle display_value="Self Reports">ffd64755e2621110ad744da2709200e8</predicate_bundle>
+        <required_roles/>
+        <sys_class_name>sys_ux_composite_data_template_predicate</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:37</sys_created_on>
+        <sys_id>fbd64755d162111043f8106a498a47e8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Self Reports</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_composite_data_template_predicate_fbd64755d162111043f8106a498a47e8</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:37</sys_updated_on>
+        <table>x_919153_sos_status_report</table>
+        <ux_template display_value="Self Report Template">bfd64755d1621110ff1646de3986ace8</ux_template>
+    </sys_ux_composite_data_template_predicate>
+</record_update>

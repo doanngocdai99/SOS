@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_view_template_slot">
+    <sys_sg_view_template_slot action="INSERT_OR_UPDATE">
+        <name>text_09</name>
+        <sys_class_name>sys_sg_view_template_slot</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:49</sys_created_on>
+        <sys_id>fbd68755e6621110ea2b49055a63b80a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>text_09</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_view_template_slot_fbd68755e6621110ea2b49055a63b80a</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:49</sys_updated_on>
+        <type>Text</type>
+        <view_template display_value="Emergency Alert Manager">b7d68755d562111003901a5669f0a40b</view_template>
+    </sys_sg_view_template_slot>
+</record_update>

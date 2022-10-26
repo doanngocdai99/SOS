@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_alp_quick_action_map">
+    <sys_sg_alp_quick_action_map action="INSERT_OR_UPDATE">
+        <applet_launcher display_value="My Status Report (Manager)">7fd68755f66211100bc46958072f5135</applet_launcher>
+        <order>20</order>
+        <quick_action_button display_value="Send emergency alert">3fd68755e0621110110c5a1070f0d535</quick_action_button>
+        <sys_class_name>sys_sg_alp_quick_action_map</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:35</sys_created_on>
+        <sys_id>bbd68755c9621110929ebf4a6ef5a335</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_alp_quick_action_map_bbd68755c9621110929ebf4a6ef5a335</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:35</sys_updated_on>
+    </sys_sg_alp_quick_action_map>
+</record_update>

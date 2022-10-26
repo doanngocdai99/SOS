@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_screen">
+    <sys_ux_applicability_m2m_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Emergency Alert Admin">77d64755e8621110c780a0db9041d9f4</applicability>
+        <order>0</order>
+        <screen display_value="Home Admin">f7d68755726211106e5ef9c0f634aa09</screen>
+        <sys_class_name>sys_ux_applicability_m2m_screen</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:57</sys_created_on>
+        <sys_id>3bd64755be62111007a374d8354bcdf2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_screen_3bd64755be62111007a374d8354bcdf2</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:57</sys_updated_on>
+    </sys_ux_applicability_m2m_screen>
+</record_update>

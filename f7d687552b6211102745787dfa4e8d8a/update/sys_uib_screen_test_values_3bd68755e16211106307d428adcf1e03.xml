@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_uib_screen_test_values">
+    <sys_uib_screen_test_values action="INSERT_OR_UPDATE">
+        <macroponent_config>{
+  "kbSysId" : "f237058ee1b92010f877665293b91be4",
+  "sysId" : "1684454ee1b92010f877665293b91bd1",
+  "table" : "x_snc_emergency_0_emergency_alert_list",
+  "bare" : false
+}</macroponent_config>
+        <screen display_value="emergency-info">b7d68755d86211105772f5406a07e203</screen>
+        <sys_class_name>sys_uib_screen_test_values</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:32</sys_created_on>
+        <sys_id>3bd68755e16211106307d428adcf1e03</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_uib_screen_test_values_3bd68755e16211106307d428adcf1e03</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:32</sys_updated_on>
+    </sys_uib_screen_test_values>
+</record_update>

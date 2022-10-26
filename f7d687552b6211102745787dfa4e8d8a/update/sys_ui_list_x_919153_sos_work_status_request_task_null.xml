@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_919153_sos_work_status_request_task" version="2" view="">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>self_report</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>f3d64755346211103e6ab42ebc7294ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>state</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>bfd64755c6621110c50ee6f73131fefe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>requestor</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>b7d64755c26211100f816d916c3d6dff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>assigned_to</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>77d64755ee6211106423716dbf66a1ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>emergency</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>ffd6475535621110f0d7d5f201012afe</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>reject_reason</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>5</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>73d64755016211106e67b90f4af88cff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_status_reason</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>6</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>37d64755ff621110dce892b61c940aff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>work_status_request</element>
+            <list_id display_value="x_919153_sos_work_status_request_task" element="NULL" name="x_919153_sos_work_status_request_task" parent="NULL" relationship="NULL" sys_domain="global" view="Default view">3fd64755f062111002477a2523b0a1ff</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>7</position>
+            <sum>false</sum>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_id>b3d64755f3621110988a40d218ac9eff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_919153_sos_work_status_request_task</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>aes.creator</sys_created_by>
+            <sys_created_on>2022-10-14 10:15:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3fd64755f062111002477a2523b0a1ff</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_919153_sos_work_status_request_task</sys_name>
+            <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+            <sys_update_name>sys_ui_list_x_919153_sos_work_status_request_task_null</sys_update_name>
+            <sys_updated_by>aes.creator</sys_updated_by>
+            <sys_updated_on>2022-10-14 10:15:06</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

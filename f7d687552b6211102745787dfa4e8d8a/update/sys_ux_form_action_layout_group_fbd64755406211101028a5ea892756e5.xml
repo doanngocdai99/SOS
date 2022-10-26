@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action_layout_group">
+    <sys_ux_form_action_layout_group action="INSERT_OR_UPDATE">
+        <actions>37d6475500621110cb68102c64d562e6,f3d647555a621110c0294904dc20d1e6</actions>
+        <active>true</active>
+        <description/>
+        <name>Approve/Reject</name>
+        <sys_class_name>sys_ux_form_action_layout_group</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:53</sys_created_on>
+        <sys_id>fbd64755406211101028a5ea892756e5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Approve/Reject</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_form_action_layout_group_fbd64755406211101028a5ea892756e5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:53</sys_updated_on>
+        <table>x_919153_sos_status_report</table>
+        <type>0</type>
+    </sys_ux_form_action_layout_group>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="INSERT_OR_UPDATE">
+        <access>package_private</access>
+        <active>true</active>
+        <api_name>x_919153_sos.WorkStatusRequestTask</api_name>
+        <caller_access/>
+        <client_callable>false</client_callable>
+        <description/>
+        <name>WorkStatusRequestTask</name>
+        <script><![CDATA[var WorkStatusRequestTask = Class.create();
+WorkStatusRequestTask.prototype = {
+    initialize: function() {},
+    isRequested: function(current) {
+        if (current.status == "closed") {
+            return false;
+        }
+        var statusGR = new GlideRecord("x_919153_sos_work_status_request_task");
+        statusGR.addQuery("self_report", current.sys_id);
+        statusGR.addQuery("state", "Requested");
+        statusGR.query();
+        if (statusGR.next()) {
+            return true;
+        } else {
+            return false;
+        }
+    },
+    type: 'WorkStatusRequestTask'
+};]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:53</sys_created_on>
+        <sys_id>ffd68755f6621110b3fe1cbeebc9543f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>WorkStatusRequestTask</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_script_include_ffd68755f6621110b3fe1cbeebc9543f</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:53</sys_updated_on>
+    </sys_script_include>
+</record_update>

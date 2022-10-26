@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_push_notif_msg_content">
+    <sys_push_notif_msg_content action="INSERT_OR_UPDATE">
+        <name>update_employee_status</name>
+        <push_app display_value="ServiceNow Request Application">ac7f61d273122300d63a566a4cf6a78b</push_app>
+        <script><![CDATA[(function buildJSON(/*GlideRecord*/ current, /*String*/ message, /*Object*/ attributes) {
+//c39afa53a9f3e010f877e5f78e16ac89
+// 	var layoutFields = {"Identifier" : "number", "Type of emergency" : "type_of_emergency", "Status" : "status" };
+//   return new global.ActionablePushPayloadBuilder(current, "c39afa53a9f3e010f877e5f78e16ac89", layoutFields).buildJSON(); 
+	gs.info("Test emergency message content");
+var appletId = "c39afa53a9f3e010f877e5f78e16ac89";
+    var json = {};
+
+    // build JSON sent by push here
+    json = {
+        "aps": {
+            "sound": "default"
+        },
+        "Redirection": {
+            "Title": "Your Status Reports",
+            "To": "Embedded",
+            "Destination": {
+                "DocumentId": appletId,
+				"ItemId": current.sys_id
+            }
+        },
+        "Layout": {
+            "Status": current.status,
+            "Identifier": current.number,
+            "Description": "Update your emergency status",
+		//"Type of emergency" : "type_of_emergency"
+        }
+    };
+
+    return json;
+})(current, message, attributes);]]></script>
+        <sys_class_name>sys_push_notif_msg_content</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:06</sys_created_on>
+        <sys_id>bbd68755e0621110dd6195f080bf7543</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>update_employee_status</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_push_notif_msg_content_bbd68755e0621110dd6195f080bf7543</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:06</sys_updated_on>
+    </sys_push_notif_msg_content>
+</record_update>

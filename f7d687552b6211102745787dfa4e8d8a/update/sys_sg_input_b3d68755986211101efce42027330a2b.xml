@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input">
+    <sys_sg_input action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <autofill_variable display_value="type_of_emergency">f3d6875542621110cc0547ce83bc652b</autofill_variable>
+        <category/>
+        <description/>
+        <label>Type of emergency</label>
+        <mandatory>false</mandatory>
+        <name>type_of_emergency</name>
+        <order>10</order>
+        <page/>
+        <parameter_screen display_value="Edit">73d68755fa621110faf68cf37c3c362c</parameter_screen>
+        <parameter_section/>
+        <placeholder/>
+        <readonly>true</readonly>
+        <sys_class_name>sys_sg_input</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:02</sys_created_on>
+        <sys_id>b3d68755986211101efce42027330a2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Type of emergency</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_input_b3d68755986211101efce42027330a2b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:02</sys_updated_on>
+        <type display_value="Choice">8dfb205517021010f2b43b9fadb9592e</type>
+    </sys_sg_input>
+</record_update>

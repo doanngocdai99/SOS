@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_chart_color">
+    <sys_report_chart_color action="INSERT_OR_UPDATE">
+        <color/>
+        <color_name display_value="Emergency#E79C66">37d687557c62111046e5c263fb12ce43</color_name>
+        <display>background-color:#e79c66</display>
+        <element>status_matrix</element>
+        <name>x_919153_sos_status_report</name>
+        <sys_class_name>sys_report_chart_color</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:15:08</sys_created_on>
+        <sys_id>73d687559d62111025806909a1a9ad43</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_919153_sos_status_report</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_report_chart_color_73d687559d62111025806909a1a9ad43</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:15:08</sys_updated_on>
+        <value>2</value>
+    </sys_report_chart_color>
+</record_update>

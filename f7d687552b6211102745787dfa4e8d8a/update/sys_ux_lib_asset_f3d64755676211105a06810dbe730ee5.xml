@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_lib_asset">
+    <sys_ux_lib_asset action="INSERT_OR_UPDATE">
+        <bundled_asset>false</bundled_asset>
+        <category>image</category>
+        <checksum/>
+        <config_option/>
+        <content/>
+        <content_meta/>
+        <dependencies/>
+        <es_module>false</es_module>
+        <is_attachment>false</is_attachment>
+        <mime_type>text/plain</mime_type>
+        <name>emergency_App_logo</name>
+        <sys_class_name>sys_ux_lib_asset</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:55</sys_created_on>
+        <sys_id>f3d64755676211105a06810dbe730ee5</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>emergency_App_logo</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_lib_asset_f3d64755676211105a06810dbe730ee5</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:55</sys_updated_on>
+    </sys_ux_lib_asset>
+</record_update>

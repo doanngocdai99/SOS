@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_form_action">
+    <sys_ux_form_action action="INSERT_OR_UPDATE">
+        <action_type>ui_action</action_type>
+        <active>true</active>
+        <declarative_action/>
+        <description/>
+        <name>Request report for others affected</name>
+        <specificity>10</specificity>
+        <sys_class_name>sys_ux_form_action</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:13:59</sys_created_on>
+        <sys_id>33d6475525621110fe5acafb2e3404e6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request report for others affected</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_ux_form_action_33d6475525621110fe5acafb2e3404e6</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:13:59</sys_updated_on>
+        <table>x_919153_sos_status_report</table>
+        <ui_action display_value="Request  report">3bd687551c62111033ebfa105b3b9401</ui_action>
+    </sys_ux_form_action>
+</record_update>

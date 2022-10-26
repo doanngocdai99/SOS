@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="m2m_search_context_config_search_source">
+    <m2m_search_context_config_search_source action="INSERT_OR_UPDATE">
+        <order>400</order>
+        <search_context_config display_value="Emergency alert Workspace">3fd6875595621110a8f6ef2ef9a25b86</search_context_config>
+        <source display_value="Community Alerts">bbd687555f62111013d4ea9245167186</source>
+        <sys_class_name>m2m_search_context_config_search_source</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:15:05</sys_created_on>
+        <sys_id>fbd68755bb621110d7628ec24699c486</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>m2m_search_context_config_search_source_fbd68755bb621110d7628ec24699c486</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:15:05</sys_updated_on>
+    </m2m_search_context_config_search_source>
+</record_update>

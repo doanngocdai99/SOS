@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_sg_input_attribute">
+    <sys_sg_input_attribute action="INSERT_OR_UPDATE">
+        <input display_value="Type of emergency">b3d68755986211101efce42027330a2b</input>
+        <name>Field</name>
+        <sys_class_name>sys_sg_input_attribute</sys_class_name>
+        <sys_created_by>aes.creator</sys_created_by>
+        <sys_created_on>2022-10-14 10:14:12</sys_created_on>
+        <sys_id>33d687559c62111020cd270a707aec2b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Field</sys_name>
+        <sys_package display_value="SOS" source="x_919153_sos">f7d687552b6211102745787dfa4e8d8a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SOS">f7d687552b6211102745787dfa4e8d8a</sys_scope>
+        <sys_update_name>sys_sg_input_attribute_33d687559c62111020cd270a707aec2b</sys_update_name>
+        <sys_updated_by>aes.creator</sys_updated_by>
+        <sys_updated_on>2022-10-14 10:14:12</sys_updated_on>
+        <value>type_of_emergency</value>
+    </sys_sg_input_attribute>
+</record_update>
